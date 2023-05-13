@@ -1,18 +1,27 @@
-# password-generator
+# Password Generator
+This is a basic web app that generates a secure password for users. The app allows users to generate a password by clicking on the "Generate Password" button, and the generated password is displayed in a text area on the app.
 
- Declared variables for numbers, uppercase and lowercase letters, and special characters
+- [LIVE](https://bokigolic.github.io/password-gen/) 
 
- Allows the user to choose which character type he wants
+## Technologies Used
+This web app was built using 
+- HTML, 
+- CSS, and
+- JavaScript.
 
-## Application can be used to generate a random password based on criteria selected by user
+## Installation
+To use this web app, simply download or clone the repository to your local machine and open the index.html file in your web browser.
 
+## Usage
+To generate a password, click on the "Generate Password" button on the app. The generated password will be displayed in the text area below the button.
 
-## website url https://bokigolic.github.io/password-gen/
-
-Build with
- *html
- *css
- *javascript
-
-
- Bojan Golic
+## Contributing
+This web app is open-source and contributions are welcome. If you would like to contribute, please follow these steps:
+ 
+- Fork the repository
+- Create a new branch (git checkout -b new-feature)
+- Make your changes and commit them (git commit -am 'Add new feature')
+- Push your changes to your forked repository (git push origin new-feature)
+- Create a pull request
+License
+This project is licensed under the MIT License. See the LICENSE file for details.- 
